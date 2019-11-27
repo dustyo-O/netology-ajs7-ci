@@ -16,3 +16,4 @@
 1. [TypeScript](pdf/lection-typescript.pdf)
 
 [Шаблоны проектов для проведения лекций](https://github.com/netology-code/ajs-templates)
+22
